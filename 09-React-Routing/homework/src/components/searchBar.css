@@ -1,0 +1,10 @@
+.search{
+    background-color: beige;
+}
+
+::placeholder { color: #7A4A1A; }
+
+.agregar{
+   padding-left: 15px;
+    color: #FBBD80;
+}
